@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git\\ProjectTwo\\Two\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B84BEC-DAAC-4005-99EC-56D52977CAB0}|Two\\Two.csproj|c:\\git\\projecttwo\\two\\two\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B84BEC-DAAC-4005-99EC-56D52977CAB0}|Two\\Two.csproj|solutionrelative:two\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\ProjectTwo\\Two\\Two\\Program.cs",
+              "RelativeDocumentMoniker": "Two\\Program.cs",
+              "ToolTip": "C:\\Git\\ProjectTwo\\Two\\Two\\Program.cs",
+              "RelativeToolTip": "Two\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:30:33.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

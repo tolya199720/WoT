@@ -1,0 +1,7 @@
+C:\Git\ProjectTwo\Two\Two\bin\Debug\Two.exe.config
+C:\Git\ProjectTwo\Two\Two\bin\Debug\Two.exe
+C:\Git\ProjectTwo\Two\Two\bin\Debug\Two.pdb
+C:\Git\ProjectTwo\Two\Two\obj\Debug\Two.csproj.AssemblyReference.cache
+C:\Git\ProjectTwo\Two\Two\obj\Debug\Two.csproj.CoreCompileInputs.cache
+C:\Git\ProjectTwo\Two\Two\obj\Debug\Two.exe
+C:\Git\ProjectTwo\Two\Two\obj\Debug\Two.pdb
