@@ -1,0 +1,7 @@
+C:\Git\ProjectTwo\WoT\WoT\bin\Debug\WoT.dll
+C:\Git\ProjectTwo\WoT\WoT\bin\Debug\WoT.pdb
+C:\Git\ProjectTwo\WoT\WoT\obj\Debug\WoT.csproj.AssemblyReference.cache
+C:\Git\ProjectTwo\WoT\WoT\obj\Debug\WoT.csproj.CoreCompileInputs.cache
+C:\Git\ProjectTwo\WoT\WoT\obj\Debug\WoT.dll
+C:\Git\ProjectTwo\WoT\WoT\obj\Debug\WoT.pdb
+C:\Git\ProjectTwo\WoT\WoT\obj\Debug\WoT.csproj.Up2Date

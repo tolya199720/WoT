@@ -5,3 +5,6 @@ C:\Git\ProjectTwo\Two\Two\obj\Debug\Two.csproj.AssemblyReference.cache
 C:\Git\ProjectTwo\Two\Two\obj\Debug\Two.csproj.CoreCompileInputs.cache
 C:\Git\ProjectTwo\Two\Two\obj\Debug\Two.exe
 C:\Git\ProjectTwo\Two\Two\obj\Debug\Two.pdb
+C:\Git\ProjectTwo\Two\Two\bin\Debug\WoT.dll
+C:\Git\ProjectTwo\Two\Two\bin\Debug\WoT.pdb
+C:\Git\ProjectTwo\Two\Two\obj\Debug\Two.csproj.Up2Date
